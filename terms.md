@@ -21,7 +21,8 @@ no self-registration. Datavyne's administrators grant access by adding a
 User to Datavyne's Tyme groups in Google Workspace; sign-in uses the User's
 Datavyne-issued Google Workspace account. An account created at a User's
 first sign-in stays inactive until an administrator completes and activates
-it, and a User's role in Tyme follows their group membership.
+it, and a User's role in Tyme follows their group membership, updated each
+time they sign in.
 
 Access ends when a User's employment or engagement ends, when they are
 removed from the Tyme groups or their account is deactivated in Tyme, or

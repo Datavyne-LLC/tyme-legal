@@ -91,11 +91,9 @@ federal wage-and-hour rules require, and longer where Datavyne's
 recordkeeping needs or the law require. Tyme never deletes these
 records; it keeps a history of every change.
 
-Backups are for disaster recovery. They are encrypted before they leave
-Datavyne's server and kept in two separate places (Cloudflare and Google).
-Nightly backups are kept for two weeks, then weekly ones for two months,
-monthly ones for three years and one per year for seven years, after which
-they are deleted.
+Backups are for disaster recovery only. They are encrypted before they
+leave Datavyne's server and are stored with the service providers listed
+above; old backups are deleted on a regular schedule.
 
 ## 6. Security
 
