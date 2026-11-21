@@ -6,10 +6,10 @@ permalink: /terms/
 # Tyme Terms of Use (End-User License Agreement)
 
 
-**Effective date:** November 20, 2026
+**Effective date:** November 21, 2026
 
 These terms govern use of **Tyme**, an internal time-tracking and
-payment-handoff application operated by **Datavyne LLC** ("Datavyne", "we",
+payment-handoff application operated by **Datavyne, Inc.** ("Datavyne", "we",
 "us"). By signing in to or using Tyme, you agree to these terms.
 
 ## 1. Who may use Tyme
@@ -17,11 +17,15 @@ payment-handoff application operated by **Datavyne LLC** ("Datavyne", "we",
 Tyme is an internal business tool. It is available only to people
 Datavyne has authorized: its employees, owners and independent contractors
 engaged by Datavyne ("Users"). It is not offered to the public, and there is
-no self-registration: an administrator creates each account, and sign-in
-uses the User's Datavyne-issued Google Workspace account.
+no self-registration. Datavyne's administrators grant access by adding a
+User to Datavyne's Tyme groups in Google Workspace; sign-in uses the User's
+Datavyne-issued Google Workspace account. An account created at a User's
+first sign-in stays inactive until an administrator completes and activates
+it, and a User's role in Tyme follows their group membership.
 
-Access ends when a User's employment or engagement ends, or earlier at
-Datavyne's discretion.
+Access ends when a User's employment or engagement ends, when they are
+removed from the Tyme groups or their account is deactivated in Tyme, or
+earlier at Datavyne's discretion.
 
 ## 2. License
 
@@ -87,4 +91,4 @@ to its conflict-of-law rules.
 
 ## 10. Contact
 
-Questions about these terms: info@datavyne.solutions, Datavyne LLC, 329 N Prairie Ave, Sioux Falls, SD.
+Questions about these terms: info@datavyne.solutions, Datavyne, Inc., 519 W 22nd Street, Suite 300 #127244, Sioux Falls, SD 57105.
