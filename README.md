@@ -1,6 +1,6 @@
 # tyme-legal
 
-Public terms of use and privacy policy for **Tyme**, Datavyne LLC's internal
+Public terms of use and privacy policy for **Tyme**, Datavyne, Inc.'s internal
 time-tracking and payment application, published with GitHub Pages:
 
 - Terms: https://datavyne-llc.github.io/tyme-legal/terms/
