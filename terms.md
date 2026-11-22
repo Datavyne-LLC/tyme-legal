@@ -60,7 +60,7 @@ QuickBooks is also subject to Intuit's own terms.
 ## 5. Records
 
 Time, approval and payment records are business records of Datavyne. They
-are kept as described in the [Tyme Privacy Policy](https://datavyne-llc.github.io/tyme-legal/privacy/) and as
+are kept as described in the [Tyme Privacy Policy](https://datavyne.github.io/tyme-legal/privacy/) and as
 required by law, and every change is logged.
 
 ## 6. No warranty
